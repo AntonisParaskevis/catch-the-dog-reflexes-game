@@ -1,0 +1,25 @@
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EPPlus.dll
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EPPlus.xml
+C:\Users\user\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EPPlus.dll
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\EPPlus.xml
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
