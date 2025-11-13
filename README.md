@@ -12,14 +12,14 @@ Click the Code button, then click on "Download ZIP"
 # Execution
 Run WindowsFormsApp3.exe, located in WindowsFormsApp3\WindowsFormsApp3\bin\Debug
 
-# Usage
-• Enter your name in the field located on the top side of the app.
+# How to Play
+1. Enter your name in the field located on the top side of the app.
 
-• Start the game by clicking on Game → New Game. Alternatively, hit Ctrl + N.
+2. Start the game by clicking on Game → New Game. Alternatively, hit Ctrl + N.
 
-• The dog will start moving across the screen. Click on it to score a point. Please note: once you score a point by clicking on the dog, you won’t be able to score again until it changes position.
+3. The dog will start moving across the screen. Click on it to score a point. Please note: once you score a point by clicking on the dog, you won’t be able to score again until it changes position.
 
-• You have 60 seconds to score as many points as you can!
+4. You have 60 seconds to score as many points as you can!
 
 # Other Features
 
