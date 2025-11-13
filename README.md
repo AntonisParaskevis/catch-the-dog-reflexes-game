@@ -7,7 +7,7 @@ A reflexes game featuring a cute dog.
 • .NET Framework 4.7.2 or newer
 
 # Download
-Click the Code button, then click on "Download ZIP"
+Click the Code button, then click on "Download ZIP".
 
 # Execution
 Run WindowsFormsApp3.exe, located in WindowsFormsApp3\WindowsFormsApp3\bin\Debug
